@@ -2,6 +2,8 @@ Parkour RPG
 
 A 2D platformer built with Pygame where players navigate obstacles, talk to NPCs, and progress through multiple stages.
 
+![Gameplay Screenshot](Screenshot_20260619_173205.png)
+
 Play the Game:
 
 Download the source code from this repository and run:
