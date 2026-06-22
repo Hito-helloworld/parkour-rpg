@@ -1,4 +1,4 @@
-Parkour RPG is a 2D platformer built with Python and Pygame where players navigate through obstacles, explore levels, and interact with NPCs while progressing through multiple stages.
+Parkour RPG is a 2D platformer built with Python and Pygame(only works in linux) where players navigate through obstacles, explore levels, and interact with NPCs while progressing through multiple stages.
 
 The goal of the game is to combine smooth movement mechanics with simple exploration and interaction elements, creating a lightweight but engaging platforming experience.
 
@@ -15,11 +15,14 @@ Key Features:
 
 
 How to Run:
-1. Install Python 3.11+
-2. Install dependencies:
-   pip install pygame
-3. Run the game:
-   python main.py
+1.Downloads the "ParkourGame-Linux.zip" file
+2.Open terminal and paste this commands:
+cd Downloads
+ls
+unzip ParkourGame-Linux.zip 
+cd main
+./main
+3.Good to go
 
 Controls:
 - A / Left Arrow → Move Left
