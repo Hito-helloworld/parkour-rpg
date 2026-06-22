@@ -1,54 +1,34 @@
-Parkour RPG
+Parkour RPG is a 2D platformer built with Python and Pygame where players navigate through obstacles, explore levels, and interact with NPCs while progressing through multiple stages.
 
-A 2D platformer built with Pygame where players navigate obstacles, talk to NPCs, and progress through multiple stages.
+The goal of the game is to combine smooth movement mechanics with simple exploration and interaction elements, creating a lightweight but engaging platforming experience.
 
-![Gameplay Screenshot](Screenshot_20260619_173205.png)
+Players can run, jump, and traverse different platform layouts while avoiding gaps and timing their movements. NPCs are included to add basic interaction and world-building elements.
 
-Play the Game:
+This project was built for the Stardance Hackathon as a learning-focused game development project using Pygame.
 
-Download the source code from this repository and run:
-python main.py
-
-Features:
-
-Smooth platforming movement
-NPC dialogue system
-Multiple stages
-Jump and parkour mechanics
-Full-screen gameplay
+Key Features:
+- Smooth 2D platforming movement
+- Jumping and collision-based gameplay
+- NPC interaction system
+- Multiple stage progression
+- Full-screen gameplay support
 
 
-Requirements:
-
-Python 3.11+
-Pygame
-
-Install Pygame:
-
-pip install pygame
-
-
-Run
-python main.py
-
+How to Run:
+1. Install Python 3.11+
+2. Install dependencies:
+   pip install pygame
+3. Run the game:
+   python main.py
 
 Controls:
-
-A / Left Arrow — Move Left
-D / Right Arrow — Move Right
-Space — Jump
-ESC — Quit
-
-
-How It Works:
-
-The game is built using Pygame. The player can move through stages, interact with NPCs, and complete platforming challenges. Assets are loaded from local media folders and rendered in real time using Pygame's event and rendering systems.
+- A / Left Arrow → Move Left
+- D / Right Arrow → Move Right
+- Space → Jump
+- ESC → Quit
 
 
-Created for the Stardance Hackathon.
+The game is built using a simple Pygame architecture with a main game loop handling movement, physics, rendering, and interactions. Assets are loaded locally and rendered in real-time.
 
 
-Built with:
-
-Python
-Pygame
+Created for the Stardance Hackathon using Python and Pygame.
